@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sha256Learning", "Sha256\Sha256Learning.csproj", "{0CCBDBA3-31F2-46D3-BB1D-440C13182D7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sha256Learning.Test", "Sha256Learning.Test\Sha256Learning.Test.csproj", "{C762F7CF-661F-4E76-AB50-1DF54E45FD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCBDBA3-31F2-46D3-BB1D-440C13182D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCBDBA3-31F2-46D3-BB1D-440C13182D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCBDBA3-31F2-46D3-BB1D-440C13182D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCBDBA3-31F2-46D3-BB1D-440C13182D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C762F7CF-661F-4E76-AB50-1DF54E45FD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C762F7CF-661F-4E76-AB50-1DF54E45FD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C762F7CF-661F-4E76-AB50-1DF54E45FD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C762F7CF-661F-4E76-AB50-1DF54E45FD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962C2339-FCE9-4ED4-B66C-A9F78D31CC55}
+	EndGlobalSection
+EndGlobal
